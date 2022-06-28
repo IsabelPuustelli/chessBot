@@ -1,0 +1,14 @@
+﻿  asema.cpp
+G:\Shakkibotti\vaihe_final - Koko Runko\shakki\asema.cpp(338,16): warning C4305: '=': truncation from 'double' to 'float'
+G:\Shakkibotti\vaihe_final - Koko Runko\shakki\asema.cpp(341,17): warning C4305: '=': truncation from 'double' to 'float'
+G:\Shakkibotti\vaihe_final - Koko Runko\shakki\asema.cpp(342,16): warning C4305: '=': truncation from 'double' to 'float'
+  kayttoliittyma.cpp
+G:\Shakkibotti\vaihe_final - Koko Runko\shakki\kayttoliittyma.cpp(115,7): warning C4101: 'jarkevaSiirto': unreferenced local variable
+  main.cpp
+  nappula.cpp
+  peli.cpp
+  ruutu.cpp
+  siirto.cpp
+  vastustaja.cpp
+  Generating Code...
+  shakki.vcxproj -> G:\Shakkibotti\vaihe_final - Koko Runko\Debug\shakki.exe
